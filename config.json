@@ -1,0 +1,16 @@
+{
+  "ConnectionStrings": {
+    "DutchContextDb": "Data Source=(localdb)\\mssqllocaldb;Initial Catalog=test;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets=true"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "askbfijabfwijhabwuifasdasdaf",
+    "Issuer": "https://localhost:44354",
+    "Audience": "https://localhost:44354"
+  }
+}
