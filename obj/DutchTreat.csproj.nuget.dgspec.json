@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shay\\Source\\Repos\\DutchTreat\\DutchTreat.csproj": {}
+    "C:\\Users\\Shay\\source\\repos\\DutchTreat\\DutchTreat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shay\\Source\\Repos\\DutchTreat\\DutchTreat.csproj": {
+    "C:\\Users\\Shay\\source\\repos\\DutchTreat\\DutchTreat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shay\\Source\\Repos\\DutchTreat\\DutchTreat.csproj",
+        "projectUniqueName": "C:\\Users\\Shay\\source\\repos\\DutchTreat\\DutchTreat.csproj",
         "projectName": "DutchTreat",
-        "projectPath": "C:\\Users\\Shay\\Source\\Repos\\DutchTreat\\DutchTreat.csproj",
+        "projectPath": "C:\\Users\\Shay\\source\\repos\\DutchTreat\\DutchTreat.csproj",
         "packagesPath": "C:\\Users\\Shay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shay\\Source\\Repos\\DutchTreat\\obj\\",
+        "outputPath": "C:\\Users\\Shay\\source\\repos\\DutchTreat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shay\\AppData\\Roaming\\NuGet\\NuGet.Config",

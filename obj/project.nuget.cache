@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XslAM+aH5qyLYMmevp1KM926gF72cfAy4aFa1/bIDNos64IWMVaOjpuh//87Vx7EC+1NR49RRTGMUO+2XgLBIA==",
+  "dgSpecHash": "bclv4C6dHoUro+sYc/FzJRMXqrdZ0TVtwRHRNdiVmmgstKbsUuPDIcLvd/txtsFTn84sreT6MychenH5PLmADQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shay\\Source\\Repos\\DutchTreat\\DutchTreat.csproj",
+  "projectFilePath": "C:\\Users\\Shay\\source\\repos\\DutchTreat\\DutchTreat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shay\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Shay\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
